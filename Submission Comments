@@ -1,0 +1,28 @@
+Hello, Kelly
+
+Well-done on the submission of your Module 9 homework assignment, in this challenge you evaluated issues that exist within a DNS infrastructure.
+
+Please note the below:
+
+Mission 2:
+
+The new SPF record needs to include the new IP such as: "v=spf1 a mx a:mail.wise-advice.com mx:smtp.secureserver.net include:aspmx.googlemail.com ip4:104.156.250.80 ip4:45.23.176.21 ip4:45.63.4.215 ip4:104.207.135.156 ~all"
+
+Mission 3:
+
+The subpage of resistance.theforce.net isn't redirecting because there isn't a CNAME for it.
+
+A CNAME record should be added such as: resistance.theforce.net CNAME theforce.net
+
+In conclusion:
+
+Please look at the correction provided in my response, see if you can see where you went wrong..
+
+Finally:
+
+Keep up this level of excellence, should you need clarity on certain topics reach-out to your instructional team, alternatively use the askBCS service as well as tutoring, this will enhance your chances of success
+
+Central Grader:
+
+Jean-Michel
+Central Grader, Mar 8 at 3:17am
